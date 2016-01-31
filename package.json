@@ -1,7 +1,7 @@
 {
-  "name": "angular2-workshop-starter",
+  "name": "ng-events",
   "version": "1.0.0",
-  "description": "A simple starter Angular2 project",
+  "description": "Angular2 version of Hacker Dojo Events app",
   "scripts": {
     "start": "concurrent \"npm run server\" \"npm run watch\"",
     "watch": "webpack-dev-server --inline --colors --progress --display-error-details --display-cached --port 8080 --content-base src",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angular/angular2-seed.git"
+    "url": "git+https://github.com/billsaysthis/ng-events"
   },
   "keywords": [
     "Angular2",
     "angular2-seed"
   ],
-  "author": "Rob Wormald <robwormald@gmail.com>, John Lindquist, Joel Hooks",
-  "license": "Apache-2.0",
+  "author": "Bill Lazar",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/angular2-seed/issues"
+    "url": "https://github.com/billsaysthis/ng-events/issues"
   },
-  "homepage": "https://github.com/angular/angular2-seed#readme",
+  "homepage": "https://github.com/billsaysthis/ng-events#readme",
   "devDependencies": {
     "concurrently": "^1.0.0",
     "faker": "^3.0.1",

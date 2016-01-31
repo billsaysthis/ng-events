@@ -1,6 +1,6 @@
-## Angular 2 Workshop Starter
+## Angular 2 Hacker Dojo Events app
 
-This starter is based on the Angular 2 seed at `https://github.com/angular/angular-seed`
+This app requires a working backend server to supply the API it runs against.
 
 ### Usage
 - Clone or fork this repository
